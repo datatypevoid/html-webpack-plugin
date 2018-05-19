@@ -552,7 +552,6 @@ class HtmlWebpackPlugin {
       tagName: 'script',
       voidTag: false,
       attributes: {
-        type: 'text/javascript',
         src: scriptPath
       }
     }));
