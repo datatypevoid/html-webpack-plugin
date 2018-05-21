@@ -2,7 +2,7 @@
 /**
  * The plugin options
  */
-type HtmlWebpackPluginOptions = {
+interface HtmlWebpackPluginOptions {
     /**
      * The title to use for the generated HTML document
      */
